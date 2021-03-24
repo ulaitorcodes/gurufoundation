@@ -75,7 +75,7 @@ let header_content = `<div class="topbar">
       <li class="dropdown nav-item">
         <a href="" class="nav-link" data-toggle="dropdown">Event</a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="/Gurubighundred/">The big 100<i class="fas fa-arrow-right"></i></a></li>
+            <li><a class="dropdown-item" href="">The big 100<i class="fas fa-arrow-right"></i></a></li>
           
           </ul>
       </li>
@@ -154,7 +154,7 @@ let footer_content = ` <div class="container-fluid p-0">
   </div>
 </div>
 </div>`
-    
+
 window.addEventListener('DOMContentLoaded', () => {
     _header.innerHTML = header_content
     _footer.innerHTML = footer_content
@@ -165,10 +165,10 @@ window.addEventListener('DOMContentLoaded', () => {
     //     method: 'GET',
     //     header: ''
     // }
-    
+
     // )
     // .then( async(response) =>  {
-        
+
     // if (!response.ok) {
     //     throw Error(response.statusText);
     // }
@@ -182,7 +182,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
     // footer
 
-   
 
-  
+
+
 })
