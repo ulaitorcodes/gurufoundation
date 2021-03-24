@@ -1,0 +1,8 @@
+
+
+---
+
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/johnetim/public_html/thegurufoundation.org/
+    - /bin/cp -r * $DEPLOYPATH
