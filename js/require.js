@@ -9,13 +9,11 @@ let header_content = `<div class="topbar">
           <a href="#"><i class="far fa-envelope mr-2 fa-flip-horizontal text-primary"></i>info@thegurufoundation.org</a>
         </div>
         <div class="mr-auto d-inline-block py-1">
-          <a href="tel:1-800-555-1234"><i class="fas fa-map-marker-alt text-primary mr-2"></i>6 Estate Housing Road, Calabar, Cross River State, Nigeria.</a>
+          <a href="tel:1-800-555-1234"><i class="fas fa-map-marker-alt text-primary mr-2"></i>6 Estate Housing Road, Calabar.</a>
         </div>
         <div class="d-inline-block py-1">
           <ul class="list-unstyled">
-            <li><a href="">Careers</a></li>
-            <li><a href="">News & Media</a></li>
-            <li><a href="">FAQ</a></li>
+            
             <li class="contact-number nav-item pr-4 ">
               <a class="font-weight-bold" href="#"><i class="fab fa-whatsapp pr-2"></i>+(234)08039314268</a>
             </li>
@@ -113,7 +111,7 @@ let footer_content = ` <div class="container-fluid p-0">
         </div>
         <div class="col-lg-6">
           <h5 class="text-primary">Head office</h5>
-          <p class="text-dark">No 6 Estate Housing Road, Calabar, CRS</p>
+          <p class="text-dark">No 6 Estate Housing Road, Calabar.</p>
           <p class="text-dark"><i class="fab fa-whatsapp mr-2 text-primary"></i>+(234) 08039314268</p>
           <p class="text-dark"><i class="far fa-envelope mr-2 text-primary"></i>info@thegurufoundation.org</p>
           <h4 class="text-dark mb-0 font-weight-bold"><a class="text-dark" href="#">+(234)08039314268</a></h4>
